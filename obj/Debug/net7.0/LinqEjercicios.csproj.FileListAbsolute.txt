@@ -1,0 +1,14 @@
+D:\Desarrollos\LinqEjercicios\bin\Debug\net7.0\LinqEjercicios.exe
+D:\Desarrollos\LinqEjercicios\bin\Debug\net7.0\LinqEjercicios.deps.json
+D:\Desarrollos\LinqEjercicios\bin\Debug\net7.0\LinqEjercicios.runtimeconfig.json
+D:\Desarrollos\LinqEjercicios\bin\Debug\net7.0\LinqEjercicios.dll
+D:\Desarrollos\LinqEjercicios\bin\Debug\net7.0\LinqEjercicios.pdb
+D:\Desarrollos\LinqEjercicios\obj\Debug\net7.0\LinqEjercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos\LinqEjercicios\obj\Debug\net7.0\LinqEjercicios.AssemblyInfoInputs.cache
+D:\Desarrollos\LinqEjercicios\obj\Debug\net7.0\LinqEjercicios.AssemblyInfo.cs
+D:\Desarrollos\LinqEjercicios\obj\Debug\net7.0\LinqEjercicios.csproj.CoreCompileInputs.cache
+D:\Desarrollos\LinqEjercicios\obj\Debug\net7.0\LinqEjercicios.dll
+D:\Desarrollos\LinqEjercicios\obj\Debug\net7.0\refint\LinqEjercicios.dll
+D:\Desarrollos\LinqEjercicios\obj\Debug\net7.0\LinqEjercicios.pdb
+D:\Desarrollos\LinqEjercicios\obj\Debug\net7.0\LinqEjercicios.genruntimeconfig.cache
+D:\Desarrollos\LinqEjercicios\obj\Debug\net7.0\ref\LinqEjercicios.dll
